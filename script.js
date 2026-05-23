@@ -138,3 +138,10 @@ function showCreateSession() {
 window.onload = () => {
   renderHome();
 };
+
+window.chooseMode = chooseMode;
+window.showCreateSession = showCreateSession;
+window.loginProche = loginProche;
+window.loginAdmin = loginAdmin;
+window.playAudio = playAudio;
+window.uploadAudio = uploadAudio;
