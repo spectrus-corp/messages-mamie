@@ -1,0 +1,26 @@
+{
+  "name": "Messages de famille",
+  "short_name": "Famille",
+  "description": "Des petits messages audio doux à écouter, pour rester proches.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fdf6f0",
+  "theme_color": "#f4b8d4",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
